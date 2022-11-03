@@ -1,1 +1,3 @@
 # messenger-app
+Startup instruction:
+
